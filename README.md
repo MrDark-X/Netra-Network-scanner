@@ -1,15 +1,13 @@
 # 🔍 NETRA - Network Reconnaissance and Analysis Tool
-## 🙌 Author
-- Developed with ❤️ by Chalamalasetty Yaswanth Surya
-- Cybersecurity Researcher & Developer
-
-
 **NETRA** (Network Exploration Tool by **Chalamalasetty Yaswanth Surya**) is a Python-based command-line tool designed for network reconnaissance and footprinting. It helps penetration testers, red teamers, and network administrators identify live hosts, scan open ports, and detect common services running on machines within a target network or subnet.
 
 This tool provides a good balance between customization, educational value, and practical utility by leveraging **Scapy**, **socket**, and **requests** modules to manually craft and analyze packets.
 
 ---
-
+## 🙌 Author
+- Developed with ❤️ by Chalamalasetty Yaswanth Surya
+- Cybersecurity Researcher & Developer
+---
 ## 🧠 Tool Description
 
 NETRA works by:
